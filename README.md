@@ -1,0 +1,2 @@
+# SkypeWebAppTest
+Test for SkypeWebApp
